@@ -1,0 +1,21 @@
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+service-account.json
+token.json
+
+# Google Apps Script local artifacts
+.clasp.json
+.claspignore
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
