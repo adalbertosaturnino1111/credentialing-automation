@@ -1,7 +1,7 @@
 /**
  * Credentialing Automation - Document Analysis Engine
  *
- * Portfolio/demo implementation based on the supplied workflow.
+ * Shared workflow implementation for document credentialing analysis.
  *
  * Responsibilities:
  * - Normalize document names
@@ -11,7 +11,7 @@
  * - Apply retry handling for transient API errors
  * - Write analysis results and workflow cards to Google Sheets
  *
- * No production identifiers, employee data or corporate URLs belong here.
+ * Environment-specific identifiers and sensitive data belong outside source control.
  */
 
 const DOCUMENTS = {

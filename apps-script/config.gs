@@ -1,7 +1,7 @@
 /**
- * Credentialing Automation - Portfolio Configuration
+ * Credentialing Automation - Configuration
  *
- * Public/demo configuration only.
+ * Environment-specific configuration is loaded at runtime.
  *
  * Real Google resource IDs and API keys are intentionally NOT stored
  * in source code. Configure them through Apps Script > Project Settings
